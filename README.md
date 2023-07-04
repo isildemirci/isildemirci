@@ -1,10 +1,9 @@
 Hi 👋 My name is Işıl Demirci
 =============================
 
-Senior Student
+Game Developer
 --------------
-
-I'm senior student at Computer Education and Instructional Design department at METU. I'm highly motivated and passionate acquire new skills. I have been working to specialize in game development for about 1 year.
+As a lifelong learner, I am motivated to explore new challenges, ideas, and experiences. My main goal is to create high-quality work that embodies a fresh perspective. I am actively pursuing opportunities to contribute to impressive game projects and further my personal growth.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [github.com/isildemirci](http://github.com/isildemirci)
